@@ -1,0 +1,94 @@
+C:\Users\Game\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.exe
+C:\Users\Game\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.deps.json
+C:\Users\Game\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.runtimeconfig.json
+C:\Users\Game\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.dll
+C:\Users\Game\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.pdb
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.AssemblyReference.cache
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmDodajKsiazke.resources
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmDodajUzytkownika.resources
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmLista.resources
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmPlan.resources
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmProfil.resources
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmZaloguj.resources
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.GenerateResource.cache
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.AssemblyInfoInputs.cache
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.AssemblyInfo.cs
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.CoreCompileInputs.cache
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.dll
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\refint\InShelf.dll
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.pdb
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.genruntimeconfig.cache
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\ref\InShelf.dll
+C:\Users\Game\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmZmiana.resources
+C:\Users\mates\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.exe
+C:\Users\mates\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.deps.json
+C:\Users\mates\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.runtimeconfig.json
+C:\Users\mates\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.dll
+C:\Users\mates\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\ref\InShelf.dll
+C:\Users\mates\Desktop\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.pdb
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.AssemblyReference.cache
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmDodajKsiazke.resources
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmDodajUzytkownika.resources
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmLista.resources
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmPlan.resources
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmProfil.resources
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmZaloguj.resources
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmZmiana.resources
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.GenerateResource.cache
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.AssemblyInfoInputs.cache
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.AssemblyInfo.cs
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.CoreCompileInputs.cache
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.dll
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\ref\InShelf.dll
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.pdb
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.genruntimeconfig.cache
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.exe
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.deps.json
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.runtimeconfig.json
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.dll
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.pdb
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.AssemblyReference.cache
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmDodajKsiazke.resources
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmDodajUzytkownika.resources
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmLista.resources
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmPlan.resources
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmProfil.resources
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmZaloguj.resources
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmZmiana.resources
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.GenerateResource.cache
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.AssemblyInfoInputs.cache
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.AssemblyInfo.cs
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.CoreCompileInputs.cache
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.dll
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\refint\InShelf.dll
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.pdb
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.genruntimeconfig.cache
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\ref\InShelf.dll
+C:\Users\Game\Desktop\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.Properties.Resources.resources
+C:\Users\mates\Desktop\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.Properties.Resources.resources
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.exe
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.deps.json
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.runtimeconfig.json
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.dll
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\bin\Debug\net6.0-windows\InShelf.pdb
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmDodajKsiazke.resources
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmDodajUzytkownika.resources
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmLista.resources
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmPlan.resources
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmProfil.resources
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmZaloguj.resources
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.frmZmiana.resources
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.Properties.Resources.resources
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.GenerateResource.cache
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.AssemblyInfoInputs.cache
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.AssemblyInfo.cs
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.csproj.CoreCompileInputs.cache
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.dll
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\refint\InShelf.dll
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.pdb
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\InShelf.genruntimeconfig.cache
+D:\Prywatne\Programowanie\Visual Studio\InShelf 1.1\InShelf\InShelf\obj\Debug\net6.0-windows\ref\InShelf.dll
